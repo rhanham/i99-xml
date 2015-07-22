@@ -17,7 +17,4 @@ To build this plugin you will need the following:
 3) The plugin will be built inside the bin subdirectory. 
 
 Example (using gcc)
-premake4 gmake && make -C build
-
-TO BE CONTINUED...
------------------	
+premake4 gmake && make -C build	
